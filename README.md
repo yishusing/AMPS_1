@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 AMPS
 
+=======
+>>>>>>> Stashed changes
 AMPS- Build 1
 
 This is the first fully realised version of the AMPA Receptor Metabolic Pathway Simulator (AMPS). This project, started in 2016, is an attempt to create a maximalist model of a generic pyramidal dendritic spine in the hippocampus.

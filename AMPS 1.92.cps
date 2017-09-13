@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-09-13 10:43:59 UTC -->
+<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-09-13 11:16:35 UTC -->
 <?oxygen RNGSchema="http://www.copasi.org/static/schema/CopasiML.rng" type="xml"?>
 <COPASI xmlns="http://www.copasi.org/static/schema" versionMajor="4" versionMinor="20" versionDevel="158" copasiSourcesModified="0">
   <ListOfFunctions>
@@ -17455,7 +17455,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_305" name="AKT_mod_PIP3_PDK1" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_305">
     <dcterms:created>
       <rdf:Description>
@@ -17464,6 +17466,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_306" name="AKT_mod_TSC1-TSC2*" simulationType="reactions" compartment="Compartment_1">
@@ -20029,7 +20032,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_547" name="PI3K_mod_Shc*-Grb2_clx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_547">
     <dcterms:created>
       <rdf:Description>
@@ -20038,6 +20043,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_548" name="PI3K_mod_Gab1" simulationType="reactions" compartment="Compartment_1">
@@ -26209,7 +26215,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_178" name="Ras-intrinsic-GTPase" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_178">
     <dcterms:created>
       <rdf:Description>
@@ -26218,6 +26226,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_233" stoichiometry="1"/>
@@ -47148,7 +47157,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_546" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4298" name="k1" value="1e-15"/>
+          <Constant key="Parameter_4298" name="k1" value="1e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_853" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -47799,7 +47808,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_802" name="PLCg_basal_PLC_g_phospho_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_802">
     <dcterms:created>
       <rdf:Description>
@@ -47808,6 +47819,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_555" stoichiometry="1"/>
@@ -47835,7 +47847,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_803" name="TSC1-TSC2_TSC2phospho_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_803">
     <dcterms:created>
       <rdf:Description>
@@ -47844,6 +47858,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_375" stoichiometry="1"/>
@@ -48590,20 +48605,25 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4259" name="k1" value="1e-17"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="AmountPerTime" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4259"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_560"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
       </Reaction>
       <Reaction key="Reaction_824" name="Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_824">
     <dcterms:created>
       <rdf:Description>
@@ -48612,6 +48632,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_553" stoichiometry="1"/>
@@ -48621,7 +48642,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_552" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4258" name="k1" value="1.26e-17"/>
+          <Constant key="Parameter_4258" name="k1" value="4e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_842" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -48743,13 +48764,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4255" name="k1" value="6.99997e-17"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4255"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_546"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_304"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -48780,13 +48806,16 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4254" name="k1" value="9.8e-17"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4254"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_305"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
@@ -49124,7 +49153,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_838" name="TrKB_mod_PLC-g*_dephospho (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_838">
     <dcterms:created>
       <rdf:Description>
@@ -49133,6 +49164,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_222" stoichiometry="1"/>
@@ -49240,7 +49272,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_841" name="TrKB_mod_LR_Internalize (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_841">
     <dcterms:created>
       <rdf:Description>
@@ -49249,6 +49283,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_308" stoichiometry="1"/>
@@ -49275,7 +49310,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_842" name="TrKB_mod_LR_Internalize (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_842">
     <dcterms:created>
       <rdf:Description>
@@ -49284,6 +49321,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_316" stoichiometry="2"/>
@@ -49294,13 +49332,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4240" name="k1" value="0"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4240"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_316"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_316"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -49308,7 +49351,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_843" name="TrKB_mod_LR_cycling (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_843">
     <dcterms:created>
       <rdf:Description>
@@ -49317,6 +49362,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_316" stoichiometry="1"/>
@@ -49448,7 +49494,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_847" name="PI3K_mod_Grb2_bind_Shc (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_847">
     <dcterms:created>
       <rdf:Description>
@@ -49457,6 +49505,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_261" stoichiometry="1"/>
@@ -49468,13 +49517,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4235" name="k1" value="1.00002e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4235"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_261"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_317"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -49482,7 +49536,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_848" name="PI3K_mod_Grb2_bind_Shc (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_848">
     <dcterms:created>
       <rdf:Description>
@@ -49491,6 +49547,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_547" stoichiometry="1"/>
@@ -49502,13 +49559,16 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4234" name="k1" value="1e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4234"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_547"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
@@ -49538,13 +49598,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4233" name="k1" value="3e-17"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4233"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_548"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_547"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -49575,13 +49640,16 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4232" name="k1" value="1e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4232"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_318"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
@@ -51395,13 +51463,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4184" name="k1" value="1.79994e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4184"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_233"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_319"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -51432,13 +51505,16 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4183" name="k1" value="5e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4183"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_552"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
@@ -51466,7 +51542,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_550" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4182" name="k1" value="5e-16"/>
+          <Constant key="Parameter_4182" name="k1" value="5e-17"/>
         </ListOfConstants>
         <KineticLaw function="Function_852" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -51508,7 +51584,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_546" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4181" name="k1" value="4e-15"/>
+          <Constant key="Parameter_4181" name="k1" value="4e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_851" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -52843,7 +52919,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_936" name="PLCg_basal_PLC_g_phospho_1 (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_936">
     <dcterms:created>
       <rdf:Description>
@@ -52852,6 +52930,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_222" stoichiometry="1"/>
@@ -52882,7 +52961,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_937" name="PLCg_basal_PLC_g_phospho_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_937">
     <dcterms:created>
       <rdf:Description>
@@ -52891,6 +52972,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_555" stoichiometry="1"/>
@@ -52918,7 +53000,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_938" name="TSC1-TSC2_TSC2phospho_1 (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_938">
     <dcterms:created>
       <rdf:Description>
@@ -52927,6 +53011,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_322" stoichiometry="1"/>
@@ -52957,7 +53042,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_939" name="TSC1-TSC2_TSC2phospho_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_939">
     <dcterms:created>
       <rdf:Description>
@@ -52966,6 +53053,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_375" stoichiometry="1"/>
@@ -54249,7 +54337,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_973" name="Ras_inact-GEF_basal_GEF_activity_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_973">
     <dcterms:created>
       <rdf:Description>
@@ -54258,6 +54348,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_395" stoichiometry="1"/>
@@ -54454,13 +54545,18 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4104" name="k1" value="1.99998e-16"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="AmountPerTime" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_867" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3017">
               <SourceParameter reference="Parameter_4104"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3021">
+              <SourceParameter reference="Compartment_1"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3013">
               <SourceParameter reference="Metabolite_325"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3019">
               <SourceParameter reference="Metabolite_559"/>
             </CallParameter>
           </ListOfCallParameters>
@@ -54491,13 +54587,16 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         <ListOfConstants>
           <Constant key="Parameter_4103" name="k1" value="4e-17"/>
         </ListOfConstants>
-        <KineticLaw function="Function_13" unitType="AmountPerTime" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
+        <KineticLaw function="Function_866" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
-            <CallParameter functionParameter="FunctionParameter_81">
+            <CallParameter functionParameter="FunctionParameter_3015">
               <SourceParameter reference="Parameter_4103"/>
             </CallParameter>
-            <CallParameter functionParameter="FunctionParameter_79">
+            <CallParameter functionParameter="FunctionParameter_3011">
               <SourceParameter reference="Metabolite_560"/>
+            </CallParameter>
+            <CallParameter functionParameter="FunctionParameter_3016">
+              <SourceParameter reference="Compartment_1"/>
             </CallParameter>
           </ListOfCallParameters>
         </KineticLaw>
@@ -54585,7 +54684,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_982" name="Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_982">
     <dcterms:created>
       <rdf:Description>
@@ -54594,6 +54695,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_227" stoichiometry="1"/>
@@ -54603,7 +54705,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_553" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4100" name="k1" value="5.95e-17"/>
+          <Constant key="Parameter_4100" name="k1" value="5e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_841" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -54624,7 +54726,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_983" name="Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_983">
     <dcterms:created>
       <rdf:Description>
@@ -54633,6 +54737,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_553" stoichiometry="1"/>
@@ -61565,7 +61670,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[CaMKII-tot-auto-PSD_auton-autoph_1 (backward)],ParameterGroup=Parameters,Parameter=k2" value="8.0000000000000006e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_2]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_2],ParameterGroup=Parameters,Parameter=k1" value="1.0000000000000001e-15" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_2],ParameterGroup=Parameters,Parameter=k1" value="9.9999999999999998e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PP2A_dephos_clus_S6K_2]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PP2A_dephos_clus_S6K_2],ParameterGroup=Parameters,Parameter=k1" value="9.9999999999999998e-17" type="ReactionParameter" simulationType="fixed"/>
@@ -61685,7 +61790,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[num_40S_basal_basal_2],ParameterGroup=Parameters,Parameter=k1" value="1.0000000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_2]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_2],ParameterGroup=Parameters,Parameter=k1" value="1.2600000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_2],ParameterGroup=Parameters,Parameter=k1" value="3.9999999999999999e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[AKT_mod_PIP3_bind_AKT (forward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[AKT_mod_PIP3_bind_AKT (forward)],ParameterGroup=Parameters,Parameter=kf" value="4.4998800000000001e-15" type="ReactionParameter" simulationType="fixed"/>
@@ -61913,10 +62018,10 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PI3K_bind_Ras-GTP (backward)],ParameterGroup=Parameters,Parameter=k1" value="5.0000000000000004e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (forward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (forward)],ParameterGroup=Parameters,Parameter=k1" value="5.0000000000000004e-16" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (forward)],ParameterGroup=Parameters,Parameter=k1" value="4.9999999999999999e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (backward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (backward)],ParameterGroup=Parameters,Parameter=k1" value="4.0000000000000003e-15" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PDK1_S6K_phospho_1 (backward)],ParameterGroup=Parameters,Parameter=k1" value="3.9999999999999999e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PP2A_dephos_clus_S6K_1 (forward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PP2A_dephos_clus_S6K_1 (forward)],ParameterGroup=Parameters,Parameter=k1" value="5.6815700000000002e-17" type="ReactionParameter" simulationType="fixed"/>
@@ -62159,7 +62264,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[PTEN_PIP3_dephosp_1 (backward)],ParameterGroup=Parameters,Parameter=k1" value="2.1999999999999999e-15" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (forward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (forward)],ParameterGroup=Parameters,Parameter=k1" value="5.9500000000000005e-17" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (forward)],ParameterGroup=Parameters,Parameter=k1" value="5.0000000000000004e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (backward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[Ras-GTP_PI3K_PIP2_phospho_Ras-GTP_1 (backward)],ParameterGroup=Parameters,Parameter=k1" value="1.6e-15" type="ReactionParameter" simulationType="fixed"/>

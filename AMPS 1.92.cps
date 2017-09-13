@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-09-13 11:16:35 UTC -->
+<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-09-13 12:30:14 UTC -->
 <?oxygen RNGSchema="http://www.copasi.org/static/schema/CopasiML.rng" type="xml"?>
 <COPASI xmlns="http://www.copasi.org/static/schema" versionMajor="4" versionMinor="20" versionDevel="158" copasiSourcesModified="0">
   <ListOfFunctions>
@@ -14105,7 +14105,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_9" name="Ca" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_9">
     <dcterms:created>
       <rdf:Description>
@@ -14114,6 +14116,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_10" name="CaMKII" simulationType="reactions" compartment="Compartment_1">
@@ -16591,7 +16594,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_239" name="MAPK*" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_239">
     <dcterms:created>
       <rdf:Description>
@@ -16600,11 +16605,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_240" name="MAPK*_MAPK*-feedback_MAPK*-feedback_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_240">
     <dcterms:created>
       <rdf:Description>
@@ -16613,6 +16621,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_241" name="PP2A_craf**-deph_craf**-deph_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -17007,7 +17016,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_271" name="IP3R*" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_271">
     <dcterms:created>
       <rdf:Description>
@@ -17016,6 +17027,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_272" name="EGF.EGFR_phosph_Shc_phosph_Shc_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -17059,7 +17071,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_275" name="MAPKK*" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_275">
     <dcterms:created>
       <rdf:Description>
@@ -17068,11 +17082,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_276" name="MAPKK*_MAPKKthr_MAPKKthr_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_276">
     <dcterms:created>
       <rdf:Description>
@@ -17081,11 +17098,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_277" name="MKP-1" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_277">
     <dcterms:created>
       <rdf:Description>
@@ -17094,11 +17114,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_278" name="MKP-1_MKP1-thr-deph_MKP1-thr-deph_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_278">
     <dcterms:created>
       <rdf:Description>
@@ -17107,11 +17130,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_279" name="MAPK" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_279">
     <dcterms:created>
       <rdf:Description>
@@ -17120,11 +17146,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_280" name="MAPKK*_MAPKKtyr_MAPKKtyr_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_280">
     <dcterms:created>
       <rdf:Description>
@@ -17133,11 +17162,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_281" name="MKP-1_MKP1-tyr-deph_MKP1-tyr-deph_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_281">
     <dcterms:created>
       <rdf:Description>
@@ -17146,6 +17178,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_282" name="MAPK-tyr" simulationType="reactions" compartment="Compartment_1">
@@ -17283,7 +17316,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_292" name="MAPKK-ser" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_292">
     <dcterms:created>
       <rdf:Description>
@@ -17292,6 +17327,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_293" name="PP2A_MAPKK-deph-ser_MAPKK-deph-ser_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -17309,7 +17345,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_294" name="MAPKK" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_294">
     <dcterms:created>
       <rdf:Description>
@@ -17318,6 +17356,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_295" name="Raf-GTP-Ras*_Raf-GTP-Ras*_dot_1_Raf-GTP-Ras*_dot_1_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -17788,7 +17827,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_339" name="CaMKIII" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_339">
     <dcterms:created>
       <rdf:Description>
@@ -17797,6 +17838,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_340" name="CaMKIII*" simulationType="reactions" compartment="Compartment_1">
@@ -17870,7 +17912,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_347" name="protein" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_347">
     <dcterms:created>
       <rdf:Description>
@@ -17879,6 +17923,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_348" name="degraded_protein" simulationType="fixed" compartment="Compartment_1">
@@ -17951,7 +17996,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_353" name="S6K_thr252" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_353">
     <dcterms:created>
       <rdf:Description>
@@ -17960,6 +18007,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_354" name="PP2A_dephos-clus-S6K_dephos-clus-S6K_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -18342,7 +18390,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_389" name="MAPK*_cluster-phospho-S6K_cluster-phospho-S6K_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_389">
     <dcterms:created>
       <rdf:Description>
@@ -18351,6 +18401,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_390" name="MAPK*_MAPK-4E-BP**_MAPK-4E-BP**_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -18368,7 +18419,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_391" name="MAPK*_MAPK-4E-BP-phospho_MAPK-4E-BP-phospho_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_391">
     <dcterms:created>
       <rdf:Description>
@@ -18377,6 +18430,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_392" name="MAPK_Raf*-GTP-Ras" simulationType="reactions" compartment="Compartment_1">
@@ -18394,7 +18448,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_393" name="MAPK_Raf*-GTP-Ras_Raf*-GTP-Ras.1_Raf*-GTP-Ras.1_cplx" simulationType="reactions" compartment="Compartment_1">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_393">
     <dcterms:created>
       <rdf:Description>
@@ -18403,6 +18459,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_394" name="MAPK_Raf*-GTP-Ras_Raf*-GTP-Ras.2_Raf*-GTP-Ras.2_cplx" simulationType="reactions" compartment="Compartment_1">
@@ -19952,7 +20009,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Metabolite>
       <Metabolite key="Metabolite_539" name="Ca_pool" simulationType="assignment" compartment="Compartment_4">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Metabolite_539">
     <dcterms:created>
       <rdf:Description>
@@ -19961,9 +20020,10 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <Expression>
-          if(&lt;CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Values[Time Pulse],Reference=Value> >= 1801,0,if(&lt;CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Values[Time Pulse],Reference=Value> >= 1800,0,0))
+          if(&lt;CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Values[Time Pulse],Reference=Value> >= 1810,0,if(&lt;CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Values[Time Pulse],Reference=Value> >= 1800,0,0))
         </Expression>
       </Metabolite>
       <Metabolite key="Metabolite_540" name="CaM_Pool" simulationType="assignment" compartment="Compartment_4">
@@ -20299,6 +20359,20 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       <Metabolite key="Metabolite_578" name="TCFBCatenin_cplx" simulationType="reactions" compartment="Compartment_1">
       </Metabolite>
       <Metabolite key="Metabolite_579" name="MAPKK_BRaf*_cplx" simulationType="reactions" compartment="Compartment_1">
+        <MiriamAnnotation>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="#Metabolite_579">
+    <dcterms:created>
+      <rdf:Description>
+        <dcterms:W3CDTF>2017-09-13T12:49:14Z</dcterms:W3CDTF>
+      </rdf:Description>
+    </dcterms:created>
+  </rdf:Description>
+</rdf:RDF>
+
+        </MiriamAnnotation>
       </Metabolite>
       <Metabolite key="Metabolite_580" name="BRaf_GTP-Ras_cplx" simulationType="reactions" compartment="Compartment_1">
       </Metabolite>
@@ -21311,7 +21385,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_28" name="PP1-active_Deph-thr286_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_28">
     <dcterms:created>
       <rdf:Description>
@@ -21320,6 +21396,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_37" stoichiometry="1"/>
@@ -26688,7 +26765,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_191" name="MKP1-tyr-deph_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_191">
     <dcterms:created>
       <rdf:Description>
@@ -26697,6 +26776,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_281" stoichiometry="1"/>
@@ -26706,7 +26786,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_279" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4891" name="k1" value="4e-16"/>
+          <Constant key="Parameter_4891" name="k1" value="1e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_818" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -26745,7 +26825,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_282" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4890" name="k1" value="3e-17"/>
+          <Constant key="Parameter_4890" name="k1" value="1.5e-17"/>
         </ListOfConstants>
         <KineticLaw function="Function_816" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -33256,7 +33336,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_378" name="PP1-active_Deph-thr286_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_378">
     <dcterms:created>
       <rdf:Description>
@@ -33265,6 +33347,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_37" stoichiometry="1"/>
@@ -45360,7 +45443,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_736" name="MKP1-thr-deph (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_736">
     <dcterms:created>
       <rdf:Description>
@@ -45369,6 +45454,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_278" stoichiometry="1"/>
@@ -45417,7 +45503,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_280" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4345" name="k1" value="3.24e-15"/>
+          <Constant key="Parameter_4345" name="k1" value="1.62e-15"/>
         </ListOfConstants>
         <KineticLaw function="Function_731" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -45459,7 +45545,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_275" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4344" name="k2" value="1.2e-16"/>
+          <Constant key="Parameter_4344" name="k2" value="6e-17"/>
         </ListOfConstants>
         <KineticLaw function="Function_732" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -45579,7 +45665,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_281" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4341" name="k1" value="2.85714e-16"/>
+          <Constant key="Parameter_4341" name="k1" value="7.5e-15"/>
         </ListOfConstants>
         <KineticLaw function="Function_735" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -45600,7 +45686,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_742" name="MKP-tyr-deph (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_742">
     <dcterms:created>
       <rdf:Description>
@@ -45609,6 +45697,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_281" stoichiometry="1"/>
@@ -45618,7 +45707,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_282" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4340" name="k2" value="1.6e-15"/>
+          <Constant key="Parameter_4340" name="k2" value="4e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_736" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -48030,7 +48119,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_808" name="S6K_thr252_camkIII_phospho_2" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_808">
     <dcterms:created>
       <rdf:Description>
@@ -48039,6 +48130,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_380" stoichiometry="1"/>
@@ -50968,7 +51060,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_885" name="protein_deg (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_885">
     <dcterms:created>
       <rdf:Description>
@@ -50977,6 +51071,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_347" stoichiometry="1"/>
@@ -50985,7 +51080,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <Product metabolite="Metabolite_348" stoichiometry="1"/>
         </ListOfProducts>
         <ListOfConstants>
-          <Constant key="Parameter_4197" name="kf" value="0"/>
+          <Constant key="Parameter_4197" name="kf" value="1e-16"/>
         </ListOfConstants>
         <KineticLaw function="Function_632" unitType="Default" scalingCompartment="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]">
           <ListOfCallParameters>
@@ -53381,7 +53476,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_948" name="S6K_thr252_camkIII_phospho_1 (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_948">
     <dcterms:created>
       <rdf:Description>
@@ -53390,6 +53487,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_339" stoichiometry="1"/>
@@ -53420,7 +53518,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_949" name="S6K_thr252_camkIII_phospho_1 (backward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_949">
     <dcterms:created>
       <rdf:Description>
@@ -53429,6 +53529,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_380" stoichiometry="1"/>
@@ -56959,7 +57060,9 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       </Reaction>
       <Reaction key="Reaction_1044" name="X_phosph_Raf_1 (forward)" reversible="false" fast="false">
         <MiriamAnnotation>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about="#Reaction_1044">
     <dcterms:created>
       <rdf:Description>
@@ -56968,6 +57071,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </dcterms:created>
   </rdf:Description>
 </rdf:RDF>
+
         </MiriamAnnotation>
         <ListOfSubstrates>
           <Substrate metabolite="Metabolite_235" stoichiometry="1"/>
@@ -58714,7 +58818,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </ModelParameterGroup>
         <ModelParameterGroup cn="String=Initial Compartment Sizes" type="Group">
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[default_compartment]" value="8.9999999999999996e-17" type="Compartment" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]" value="8.9999999999999996e-17" type="Compartment" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine]" value="9.9999999999999998e-17" type="Compartment" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_PSD]" value="1.0000000000000001e-17" type="Compartment" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_dendrite]" value="5e-15" type="Compartment" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[Stim Pool]" value="1.0000000000000001e-18" type="Compartment" simulationType="fixed"/>
@@ -58726,45 +58830,45 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[default_compartment],Vector=Metabolites[Ca-equester]" value="343.23380006373293" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[default_compartment],Vector=Metabolites[inact_cap_entry]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[Stim Pool],Vector=Metabolites[Glu_Pool]" value="0" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RasGap]" value="5.4199267713000037" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[X]" value="0.55624708453851901" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RafPPtase]" value="3.251956062779997" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RKIP]" value="1.133252488611117" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RKIP*]" value="0.046714348841834688" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca]" value="4.3359414170399981" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII]" value="5853.5209130040002" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RasGap]" value="6.0221408570000063" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[X]" value="0.61805231615391032" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RafPPtase]" value="3.6132845141999965" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RKIP]" value="1.2591694317901301" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[RKIP*]" value="0.051904832046482996" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca]" value="4.8177126855999983" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII]" value="6503.9121255599985" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII-CaM]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII-thr286*-CaM]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII***]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII-thr286]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaM_CaMKII_CaM_act_305_CaM_act_305_cplx]" value="3.4288062659472331e-09" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaM_CaMKII_CaM_act_286_CaM_act_286_cplx]" value="1.325372833611416e-06" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII_auton_305_auton_305_cplx]" value="2.656065224979851e-06" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII_auton_286_auton_286_cplx]" value="0.001026775016118498" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaM_CaMKII_CaM_act_305_CaM_act_305_cplx]" value="3.8097847399413703e-09" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaM_CaMKII_CaM_act_286_CaM_act_286_cplx]" value="1.4726364817904626e-06" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII_auton_305_auton_305_cplx]" value="2.9511835833109459e-06" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII_auton_286_auton_286_cplx]" value="0.0011408611290205537" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII-thr305]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM]" value="1427.2473831089983" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM]" value="1585.8304256766653" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[neurogranin-CaM]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[neurogranin*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[neurogranin]" value="541.99267712999915" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[neurogranin]" value="602.21408569999937" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM-TR2-Ca2]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM-Ca3]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM-Ca4]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[I1]" value="97.558681883399956" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[I1]" value="108.39853542599995" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[I1*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-I1*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-I1]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A]" value="60.221408569397752" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-I1_PP2A-dephosph-1_cplx]" value="0.00010803720695651349" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-PP1-I*__PP2A-dephosph-PP1-I*__cplx]" value="0.37451693989682983" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-I1_PSD_PP2A-dephosph-I1_PSD_cplx]" value="1.2008148868858002e-05" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-PP1-I*__PSD_PP2A-dephosph-PP1-I*__PSD_cplx]" value="0.069324878161483555" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active]" value="97.558681883399956" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A]" value="66.91267618821972" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-I1_PP2A-dephosph-1_cplx]" value="0.00012004134106279277" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-PP1-I*__PP2A-dephosph-PP1-I*__cplx]" value="0.41612993321869984" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-I1_PSD_PP2A-dephosph-I1_PSD_cplx]" value="1.3342387632064446e-05" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-dephosph-PP1-I*__PSD_PP2A-dephosph-PP1-I*__PSD_cplx]" value="0.077027642401648402" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active]" value="108.39853542599995" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr286_Deph-thr286_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr286b_Deph-thr286b_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr305_Deph-thr305_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr286c_Deph-thr286c_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr305a_Deph-thr305a_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaNAB]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaNAB]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaNAB-Ca2]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaNAB-Ca4]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaNAB-Ca4_dephosph_inhib1_noCaM_dephosph_inhib1_noCaM_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -58791,7 +58895,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_30_sbc__PP2B_sbo_30_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_31_sbc__PP2B_sbo_31_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_32_sbc__PP2B_sbo_32_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC1]" value="4.0147605711125216" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC1]" value="4.4608450790139136" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca-CaNAB_PP2B_PP2B_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_1_sbc__PP2B_sbo_1_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_2_sbc__PP2B_sbo_2_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -58809,14 +58913,14 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_14_sbc__PP2B_sbo_14_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_PP2B_sbo_15_sbc__PP2B_sbo_15_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_Ca_n-CaNAB_dephosph_neurogranin_PSD_dephosph_neurogranin_PSD_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2]" value="27.099633856499999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2]" value="30.110704285000004" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2-cAMP]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2-cAMP2]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2-cAMP3]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C2-cAMP4]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2C-cAMP4]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[R2-cAMP4]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-inhibitor]" value="14.051661999666631" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-inhibitor]" value="15.612957777407368" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[inhibited-PKA]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-active]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-active_phosph-PDE_phosph-PDE_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -58856,24 +58960,24 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-active_PKA_sbo_15_sbc__PKA_sbo_15_sbc__cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC1-CaM]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC2*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC2]" value="4.0147605713333343" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AC2]" value="4.4608450792592604" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMP]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP-PDE]" value="30.110704285000029" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP-PDE]" value="33.456338094444476" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP-PDE_PDE_PDE_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP-PDE*_]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP-PDE*__PDE*__PDE*__cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDE1]" value="140.51661999666629" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDE1]" value="156.12957777407368" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDE1_PDE1_PDE1_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_dot_PDE1]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM_dot_PDE1_CaM_dot_PDE1_CaM_dot_PDE1_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[cAMP]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active]" value="1.0839853542600106" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-phosph-neurogranin_PKC-phosph-neurogranin_cplx]" value="0.29191324114566142" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active]" value="1.2044281714000118" type="Species" simulationType="assignment"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-phosph-neurogranin_PKC-phosph-neurogranin_cplx]" value="0.32434804571740161" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-phosph-ng-CaM_PKC-phosph-ng-CaM_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_phosph-AC2_phosph-AC2_cplx]" value="0.002171784731062768" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_phosph-AC2_phosph-AC2_cplx]" value="0.0024130941456252985" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-phosph-neurogranin_PSD_PKC-phosph-neurogranin_PSD_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-phosph-ng-CaM_PSD_PKC-phosph-ng-CaM_PSD_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_GluR23_I]" value="5.018450714166665" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_GluR23_I]" value="5.5760563490740722" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A_B]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A831*__B]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A845*__B]" value="0" type="Species" simulationType="reactions"/>
@@ -58890,28 +58994,28 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A831*__B831*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A831*_845*__B831*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_A831*__B845*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII_basal_CaMKII_cyt]" value="108.398535426" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[ATP]" value="270996.33856499998" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKII_basal_CaMKII_cyt]" value="120.44281714000002" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[ATP]" value="301107.04285000014" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_deg]" value="0" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-control]" value="5.4199267713000037" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_control_cyt]" value="4.3359414170399964" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-control]" value="6.0221408570000063" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_control_cyt]" value="4.8177126855999957" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaM_CaMKII]" value="0" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII]" value="108.398535426" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaMKII_cyt]" value="5961.9194484300006" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[act_CaMKII_cyt]" value="108.398535426" type="Species" simulationType="assignment"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_autonomous_CaMKII]" value="120.44281714000002" type="Species" simulationType="assignment"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[tot_CaMKII_cyt]" value="6624.3549426999989" type="Species" simulationType="assignment"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[act_CaMKII_cyt]" value="120.44281714000002" type="Species" simulationType="assignment"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_I_845]" value="0" type="Species" simulationType="assignment"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_I_845-P]" value="0" type="Species" simulationType="assignment"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_I_845_PP]" value="0" type="Species" simulationType="assignment"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_tot_I_GluR12]" value="0" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_total_Int]" value="5.018450714166665" type="Species" simulationType="assignment"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AA]" value="270.9963385649998" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC]" value="1625.978031390001" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca]" value="2.0166644194698069e-15" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-AA_*]" value="9.4848718497749943e-15" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-AA_*]" value="9.8281338768173508e-16" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-cytosolic]" value="54.199267712999983" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG]" value="6.2926253153988014e-15" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-AA]" value="1.3651892213969492e-17" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AMPAR_total_Int]" value="5.5760563490740722" type="Species" simulationType="assignment"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AA]" value="301.10704284999974" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC]" value="1806.6422571000012" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca]" value="2.2407382438553416e-15" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-AA_*]" value="1.0538746499749994e-14" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-AA_*]" value="1.0920148752019284e-15" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-cytosolic]" value="60.221408569999987" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG]" value="6.991805905998669e-15" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-AA]" value="1.5168769126632769e-17" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2*-Ca_kenz_kenz_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2-Ca*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2-Ca*_kenz_kenz_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -58928,36 +59032,36 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2*-Ca]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BetaGamma]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Gprotein_active]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Gprotein-trimer_-GDP]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Gprotein-trimer_-GDP]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GDP_G_alpha]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rec-Glu]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rec-Glu-Gq]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GEF-Gprot-bg]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[inact-GEF]" value="5.4199267713000037" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[inact-GEF]" value="6.0221408570000063" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Blocked-rec-Gq]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rec-Gq]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mGluRAntag]" value="0" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2-cytosolic]" value="21.679707085199954" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC]" value="43.359414170399909" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2-cytosolic]" value="24.088563427999958" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC]" value="48.177126855999916" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC-Ca]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC-Ca-Gq]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC-Gq]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLA2*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_dot_PLC_g]" value="54.199267712999983" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC_g]" value="44.44339952465991" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_dot_PLC_g*]" value="54.199267712999983" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_dot_PLC_g]" value="60.221408569999987" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC_g]" value="49.381555027399905" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_dot_PLC_g*]" value="60.221408569999987" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC_g*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[DAG]" value="596.19194484300021" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3]" value="39.565465430490001" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PIP2]" value="541.99267712999915" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[DAG]" value="662.43549427000016" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3]" value="43.961628256100013" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PIP2]" value="602.21408569999937" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGF.EGFR]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGF.EGFR_phosph_PLC_g_phosph_PLC_g_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM-GEF]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GDP-Ras]" value="10.839853542600011" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GDP-Ras]" value="12.044281714000016" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaM-GEF_CaM-GEF-act-ras_CaM-GEF-act-ras_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GTP-Ras]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-act-raf_PKC-act-raf_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[craf-1]" value="27.099633856499999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[craf-1]" value="30.110704285000004" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_craf-deph_craf-deph_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Raf-GTP-Ras*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[craf-1*]" value="0" type="Species" simulationType="reactions"/>
@@ -58965,13 +59069,13 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_MAPK*-feedback_MAPK*-feedback_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_craf**-deph_craf**-deph_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[craf-1**]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-DAG]" value="4.5869743588447105e-21" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-DAG]" value="5.0966381764941249e-21" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC-Ca-Gq_PLCb-Ca-Gq_PLCb-Ca-Gq_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLC-Ca_PLC-Ca_PLC-Ca_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGF]" value="32.51956062779999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGFR]" value="16.259780313899999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mGluR]" value="16.259780313899999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GAP]" value="0.10839853542599999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGF]" value="36.132845141999994" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGFR]" value="18.066422571" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mGluR]" value="18.066422571" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GAP]" value="0.12044281713999999" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GAP*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GAP_GAP-inact-ras_GAP-inact-ras_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-active_PKC-inact-GAP_PKC-inact-GAP_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -58983,8 +59087,8 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Shc*.Sos.Grb2_Sos.Ras_GEF_Sos.Ras_GEF_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Glu]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[synapse]" value="0" type="Species" simulationType="fixed"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Grb2]" value="54.199267712999998" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Sos]" value="5.4199267712999886" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Grb2]" value="60.221408570000008" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Sos]" value="6.0221408569999895" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Sos.Grb2]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Sos*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Sos*.Grb2]" value="0" type="Species" simulationType="reactions"/>
@@ -58992,87 +59096,87 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-active_PKA-phosph-GEF_PKA-phosph-GEF_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Inositol]" value="0" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Internal_EGF.EGFR]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3R]" value="0.90202034630555183" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3R*]" value="0.0012864196191680554" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3R]" value="1.002244829228391" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[IP3R*]" value="0.0014293551324089505" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[EGF.EGFR_phosph_Shc_phosph_Shc_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_MAPK*_MAPK*_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_phosph_Sos_phosph_Sos_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK*_MAPKKthr_MAPKKthr_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MKP-1]" value="0.17343765668159991" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MKP-1]" value="0.19270850742399992" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MKP-1_MKP1-thr-deph_MKP1-thr-deph_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK]" value="195.1173637668" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK]" value="216.79707085199999" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK*_MAPKKtyr_MAPKKtyr_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MKP-1_MKP1-tyr-deph_MKP1-tyr-deph_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK-tyr]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Raf-GTP-Ras*_Raf-GTP-Ras*_dot_2_Raf-GTP-Ras*_dot_2_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_MAPKK-deph_MAPKK-deph_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[temp-PIP2]" value="135.49816928249979" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[temp-PIP2]" value="150.55352142499984" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKA-active_PKA-phosph-GAP_PKA-phosph-GAP_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-basal*]" value="1.0839853542599991" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-memb*]" value="7.5315302413984783e-16" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-memb*]" value="5.1137912410150718e-19" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-AA*]" value="2.6631713513717752e-16" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr306_Deph-thr306_cplx]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-basal*]" value="1.2044281713999989" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-Ca-memb*]" value="8.3683669348871981e-16" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-memb*]" value="5.6819902677945248e-19" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKC-DAG-AA*]" value="2.9590792793019725e-16" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP1-active_Deph-thr306_Deph-thr306_cplx]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK-ser]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_MAPKK-deph-ser_MAPKK-deph-ser_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK]" value="9.7558681883399974" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPKK]" value="30.110704285000004" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Raf-GTP-Ras*_Raf-GTP-Ras*_dot_1_Raf-GTP-Ras*_dot_1_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaTransp]" value="13.007824251120002" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaTransp]" value="14.453138056800002" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaTransp-2Ca]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_intracell]" value="4.3359414170399964" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaEPump]" value="0.27099633856499977" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ca_intracell]" value="4.8177126855999957" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaEPump]" value="0.30110704284999973" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaEPump_Ca-pump-out_Ca-pump-out_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[capacitive_Ca_entry_*]" value="0.54199267712999977" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_AKT]" value="10.840232937473971" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[capacitive_Ca_entry_*]" value="0.60221408569999979" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_AKT]" value="12.044703263859967" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_AKT]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PIP3]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_PDK1]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_TSC1-TSC2*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TSC1-TSC2]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TSC1-TSC2]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_BDNF-TrkB2*_clx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_BDNF-TrkB2_clx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_BDNF-TrkB_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_TrKB]" value="13.549816928249999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BDNF]" value="0.002709963385649999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_TrKB]" value="15.055352142500002" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BDNF]" value="0.0030110704284999992" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4F]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4F-mRNA_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mRNA]" value="4.3359251572596884" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_Int_BDNF-TrKB2*_clx]" value="13.549816928249999" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mRNA]" value="4.8176946191774315" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_Int_BDNF-TrKB2*_clx]" value="15.055352142500002" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Shc*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_Shc*-Grb2-Gab1_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_PI3K]" value="5.4199267713000037" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_PI3K]" value="6.0221408570000063" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_Shc*_Grb2-Gab1-PI3K_clx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_PI3K-basal]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rheb-GTP]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rheb-GTP]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TOR_Rheb-GTP_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mTOR_model_TOR-clx]" value="32.51956062779999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_40S_inact]" value="1.0839853542599991" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[mTOR_model_TOR-clx]" value="36.132845141999994" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_40S_inact]" value="1.2044281713999989" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_40S]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4E]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_4E-BP]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_eIF4E-BP]" value="10.839853542600011" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_eIF4E-BP]" value="12.044281714000016" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_4E-BP-thr37-46-s65]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_eIF4E_4E-BP-t37-46-s65]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4G-A_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4A]" value="10.84001614040314" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4G]" value="2.168008648007401" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4A]" value="12.044462378225711" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eIF4G]" value="2.408898497786002" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_43S_complex_Q.R]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_43S_complex_Quaternary_clx]" value="2.547365582511" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_43S_complex_Quaternary_clx]" value="2.8304062027900003" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_43Scomplex]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_43S_complex_RM]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII]" value="3.251956062779997" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII]" value="3.6132845141999965" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Translation_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eEF2]" value="27.099633856499999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[eEF2]" value="30.110704285000004" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_80S_ribos_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_60S_R]" value="3.6855502044839978" type="Species" simulationType="fixed"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_60S_R]" value="4.0950557827599976" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII_CaM-Ca4]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[peptide]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[protein]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[degraded_protein]" value="0" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP_mod_eIF4E-BP-thr37-46]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_S6K]" value="67.749084641249894" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_S6K]" value="75.276760712499922" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_S6K*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6Kinase_S6K-thr412]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_thr252]" value="0" type="Species" simulationType="reactions"/>
@@ -59090,7 +59194,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-4E-BP_PP2A-4E-BP_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PP2A_PP2A-4EBP_PP2A-4EBP_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_PDK1_phospho-thr308_phospho-thr308_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_PDK2]" value="0.16259780313899982" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_PDK2]" value="0.18066422570999982" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_PDK2_phosp-AKTser473_phosp-AKTser473_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[AKT_mod_PIP3_AKT-t308-s473_TSC2-phospho_TSC2-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TrKB_mod_BDNF-TrkB2*_clx_PLC-g-phospho_PLC-g-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -59105,45 +59209,45 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_thr252_camkIII-phospho_camkIII-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_thr252_S6-phospho_S6-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII_CaM-Ca4_phospho_phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII_basal]" value="0.00054199267713000065" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII_basal]" value="0.00060221408570000092" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[CaMKIII_basal_eEF2thr56-basal_eEF2thr56-basal_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_basal]" value="0.054199267712999988" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_basal]" value="0.060221408569999989" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[S6K_basal_CaMKIII-basal_CaMKIII-basal_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Translation_clx_pro-syn_pro-syn_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Translation_clx_rad-pro-syn_rad-pro-syn_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_cluster-phospho-S6K_cluster-phospho-S6K_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_MAPK-4E-BP**_MAPK-4E-BP**_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK*_MAPK-4E-BP-phospho_MAPK-4E-BP-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK_Raf*-GTP-Ras]" value="54.199267712999998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK_Raf*-GTP-Ras]" value="60.221408570000008" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK_Raf*-GTP-Ras_Raf*-GTP-Ras.1_Raf*-GTP-Ras.1_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[MAPK_Raf*-GTP-Ras_Raf*-GTP-Ras.2_Raf*-GTP-Ras.2_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[inact-GEF_basal-GEF-activity_basal-GEF-activity_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Shc]" value="27.099633856499999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[C3G]" value="27.099633856499999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Shc]" value="30.110704285000004" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[C3G]" value="30.110704285000004" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[C3G*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rap1]" value="10.839853542600011" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rap1]" value="12.044281714000016" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rap1*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rap1Gap]" value="0.6503912125559993" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GSK3B]" value="2.663189417613681" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rap1Gap]" value="0.72265690283999928" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GSK3B]" value="2.9590993529040905" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PKCD]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GSK3B*]" value="0.04636422157240868" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[GSK3B*]" value="0.051515801747120754" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Dsha]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Dshi]" value="5.4199267713000037" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCAxin]" value="0.0027641626533630001" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCAxinGSK3B]" value="0.003414553865919" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3B]" value="0.008292487960088999" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Axin]" value="2.3305685116589991" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BCatenin]" value="18.964323772778691" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TCFBCatenin]" value="0.55825245744389984" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3BBCatenin]" value="0.0003360354598206001" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3BBCatenin*]" value="0.0003360354598206001" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BCatenin*]" value="0.16530776652464996" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCBCatenin]" value="0.13007824251120001" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TCF]" value="0.25473655825109992" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Dshi]" value="6.0221408570000063" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCAxin]" value="0.0030712918370700004" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCAxinGSK3B]" value="0.0037939487399100006" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3B]" value="0.0092138755112099995" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Axin]" value="2.5895205685099993" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BCatenin]" value="21.071470858642996" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TCFBCatenin]" value="0.62028050827100012" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3BBCatenin]" value="0.00037337273313400014" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC*Axin*GSK3BBCatenin*]" value="0.00037337273313400014" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BCatenin*]" value="0.18367529613849998" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APCBCatenin]" value="0.14453138056800008" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[TCF]" value="0.28304062027899995" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[null]" value="0" type="Species" simulationType="fixed"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BRaf*]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BRaf]" value="10.839853542600011" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC_Wnt]" value="0.081298901569499968" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[BRaf]" value="12.044281714000016" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[APC_Wnt]" value="0.09033211285499998" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_PSD],Vector=Metabolites[CaMKII-thr305-PSD]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_PSD],Vector=Metabolites[CaMKII***-PSD]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_PSD],Vector=Metabolites[CaMKII-PSD]" value="0" type="Species" simulationType="reactions"/>
@@ -59268,24 +59372,24 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_radioactive_labelling],Vector=Metabolites[rad_protein]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_radioactive_labelling],Vector=Metabolites[rad_deg_pro]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_radioactive_labelling],Vector=Metabolites[rad_AA]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDK1]" value="54.199267712999927" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDK1]" value="60.221408569999923" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_Shc*-Grb2_clx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_Gab1]" value="37.939487399100017" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PI3K_mod_Gab1]" value="42.154985999000026" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Rheb-GDP]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PDK1_S6K-phospho_S6K-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_4E-BP-t37-46]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ras-GTP_PI3K]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[Ras-GTP_PI3K_PIP2-phospho-Ras-GTP_PIP2-phospho-Ras-GTP_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLCg_basal]" value="0.03793948739909999" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLCg_basal]" value="0.042154985998999993" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PLCg_basal_PLC-g-phospho_PLC-g-phospho_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_basal_translation],Vector=Metabolites[Basal_Translation]" value="0.010839853542600001" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_basal_translation],Vector=Metabolites[Basal_Translation_basal-syn_basal-syn_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_basal_translation],Vector=Metabolites[Basal_Translation_rad-basal-syn_rad-basal-syn_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_40S_basal]" value="0.0054199267712999903" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_40S_basal]" value="0.0060221408569999897" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[num_40S_basal_basal_basal_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PTEN]" value="14.633802282509979" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PTEN]" value="16.259780313899977" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[PTEN_PIP3-dephosp_PIP3-dephosp_cplx]" value="0" type="Species" simulationType="reactions"/>
-          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[P90Rsk]" value="3.251956062779997" type="Species" simulationType="reactions"/>
+          <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[P90Rsk]" value="3.6132845141999965" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[P90Rsk*]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[ATP_AC1-CaM_cplx]" value="0" type="Species" simulationType="reactions"/>
           <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Compartments[geometry_Spine],Vector=Metabolites[ATP_AC2*_cplx]" value="0" type="Species" simulationType="reactions"/>
@@ -59891,10 +59995,10 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKthr_2],ParameterGroup=Parameters,Parameter=k1" value="3.0000000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-tyr-deph_2]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-tyr-deph_2],ParameterGroup=Parameters,Parameter=k1" value="3.9999999999999999e-16" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-tyr-deph_2],ParameterGroup=Parameters,Parameter=k1" value="9.9999999999999998e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr_2]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr_2],ParameterGroup=Parameters,Parameter=k1" value="3.0000000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr_2],ParameterGroup=Parameters,Parameter=k1" value="1.5e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-thr-deph_2]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-thr-deph_2],ParameterGroup=Parameters,Parameter=k1" value="3.9999999999999999e-16" type="ReactionParameter" simulationType="fixed"/>
@@ -61529,10 +61633,10 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP1-thr-deph (backward)],ParameterGroup=Parameters,Parameter=k2" value="1.6e-15" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (forward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (forward)],ParameterGroup=Parameters,Parameter=k1" value="3.2400000000000002e-15" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (forward)],ParameterGroup=Parameters,Parameter=k1" value="1.6200000000000001e-15" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (backward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (backward)],ParameterGroup=Parameters,Parameter=k2" value="1.2e-16" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKtyr (backward)],ParameterGroup=Parameters,Parameter=k2" value="6.0000000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKthr (forward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKthr (forward)],ParameterGroup=Parameters,Parameter=k1" value="3.2400000000000002e-15" type="ReactionParameter" simulationType="fixed"/>
@@ -61541,10 +61645,10 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKKthr (backward)],ParameterGroup=Parameters,Parameter=k2" value="1.2e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (forward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (forward)],ParameterGroup=Parameters,Parameter=k1" value="2.8571399999999998e-16" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (forward)],ParameterGroup=Parameters,Parameter=k1" value="7.4999999999999996e-15" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (backward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (backward)],ParameterGroup=Parameters,Parameter=k2" value="1.6e-15" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MKP-tyr-deph (backward)],ParameterGroup=Parameters,Parameter=k2" value="3.9999999999999999e-16" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKK-deph (forward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[MAPKK-deph (forward)],ParameterGroup=Parameters,Parameter=k1" value="1.9161e-16" type="ReactionParameter" simulationType="fixed"/>
@@ -61973,7 +62077,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[pep_elongation (backward)],ParameterGroup=Parameters,Parameter=kb" value="9.9999999999999998e-20" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[protein_deg (forward)]" type="Reaction">
-            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[protein_deg (forward)],ParameterGroup=Parameters,Parameter=kf" value="0" type="ReactionParameter" simulationType="fixed"/>
+            <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[protein_deg (forward)],ParameterGroup=Parameters,Parameter=kf" value="9.9999999999999998e-17" type="ReactionParameter" simulationType="fixed"/>
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[GDP_to_GTP (forward)]" type="Reaction">
             <ModelParameter cn="CN=Root,Model=AMPA Metabolic Pathway Simulator,Vector=Reactions[GDP_to_GTP (forward)],ParameterGroup=Parameters,Parameter=k1" value="2.0000000000000001e-17" type="ReactionParameter" simulationType="fixed"/>
@@ -63198,7 +63302,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       <StateTemplateVariable objectReference="Compartment_6"/>
     </StateTemplate>
     <InitialState type="initialState">
-      0 0 0 26.918969630790002 60.221408569397752 4.3359414170399981 0 0 39.565465430490001 97.558681883399956 270.9963385649998 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.48177126856000002 0 164.60518342466648 0 10.839853542600011 5.4199267713000037 343.23380006373293 0 0 0 0 0 596.19194484300021 4.3359414170399964 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9.7558681883399974 0 0 0 0 0 0 0 18.964323772778691 0 0 0 0 44.44339952465991 0 3.251956062779997 54.199267712999983 0 0 0 0 0 2.663189417613681 54.199267712999983 60.221408569999952 541.99267712999915 27.099633856499999 30.110704285000029 48.177126855999973 54.199267712999998 0 97.558681883399956 0 27.099633856499999 0 54.199267712999983 0 2.0166644194698069e-15 21.679707085199954 0 13.549816928249999 0 0 0 54.199267712999998 0 0.17343765668159991 0 722.65690284000027 5.4199267713000037 0.010839853542600001 0 0 0 0 0 0.10839853542599999 0 0 5.4199267712999886 0 0 4.0147605713333343 0 0 0 0 0 0 1.133252488611117 54.199267712999998 0 27.099633856499999 3.251956062779997 0 0 0 0 0 10.839853542600011 5853.5209130040002 0 140.51661999666629 0.008292487960088999 0.55825245744389984 0 0 0 0 0 0 0 0 0 0 67.749084641249894 0.55624708453851901 0 0 0 0 2.3305685116589991 0 0 0 0 0 0.046714348841834688 0 0 0 54.199267712999927 0 0 0 54.199267712999998 0 0 1.3651892213969492e-17 0 0 0 0 0 0 0 0 0 0 4.5869743588447105e-21 0 0 0 0 0.0054199267712999903 10.839853542600011 0 0.003414553865919 0 0 54.199267712999998 0 0 0 0 0 0 0 0 0 0 0 0 0 0.27099633856499977 0 0 0 0 0 2.1607441394915999e-214 2.547365582511 0 2.1607441394915999e-214 0 0 1.0840857232742852e-214 0 0 4.2983030366837533e-214 0 0 0 1.231126329199365e-214 0 1.231126329199365e-214 0 0 0 0 6.1767091389963533e-215 0 1.0840857232742852e-214 0 0 0 4.2983030366837533e-214 0 3.251956062779997 0 0 0 0 1.231126329199365e-214 0 0 0 2.4490039485133369e-214 0 0 0 1.231126329199365e-214 14.633802282509979 0 0 0 0 0 0 0 0.002709963385649999 0 27.099633856499999 0 0 0 0 0 2.1607441394915999e-214 0 0 0 0 0 0 0 0 0 0 0 6.1767091389963533e-215 0 4.0147605711125216 0 0 2.4490039485133369e-214 0 0 0.6503912125559993 0.015331346857976332 2.1607441394915999e-214 0 0 0 0 0 0 1.325372833611416e-06 0 0 0 0 0 0 0 0 0 0 0 5.018450714166665 0 12.044281713999991 0 0 0.16259780313899982 0 0 0 0 0 6.2926253153988014e-15 2.656065224979851e-06 0 0 1427.2473831089983 0 0 0 0 0 0 0 0.0003360354598206001 0 0 1.2008148868858002e-05 0 0 0 0 0 0.03793948739909999 0 0 0 0 0 0.002171784731062768 0 0 0 0.00010803720695651349 0 0.48177126856000002 43.359414170399909 0 0 0.16530776652464996 0 0 0 0.001026775016118498 0 0 0.0027641626533630001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.29191324114566142 0 0 0.13007824251120001 0 0 10.839853542600011 0 7.5315302413984783e-16 0 0 0 0 9.8281338768173508e-16 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04636422157240868 32.51956062779999 0 0 0 0 9.4848718497749943e-15 13.007824251120002 0 0 0 0 0 0.25473655825109992 0 0 0 0 1.0839853542599991 0 0 3.4288062659472331e-09 0 0 195.1173637668 0 0 0 0 0 0 0 10.840232937473971 0 0 5.1137912410150718e-19 0 0.0003360354598206001 0 0.069324878161483555 0 0 27.099633856499999 0.0012864196191680554 0 0 0 0 0 54.199267712999998 0 0 0 54.199267712999998 0 0 0 0 0 0 0 2.6631713513717752e-16 0 0 0 0 0 0 0 0 0.37451693989682983 0 0 0 158.58304256766641 0 0 0 0 0 0 16.259780313899999 0 0 0 0 0 0 4.3359251572596884 0 0 0 0 0 0 0 0 2.168008648007401 14.051661999666631 0 16.259780313899999 0 0 0 37.939487399100017 0 0 5.4199267713000037 0 0.00054199267713000065 32.51956062779999 0 0 0 0 0.054199267712999988 0 5.4199267713000037 0.54199267712999977 0 10.84001614040314 0.90202034630555183 0 21.077492999499992 1.0839853542600106 0 108.398535426 5961.9194484300006 108.398535426 0 0 0 0 5.018450714166665 0 12.044281713999991 12.044281713999991 12.044281713999991 0 0 0 0 0 0 21.077492999499992 0 0 0 0 0 0 0 0 0 216797.070852 108.398535426 270996.33856499998 0 5.4199267713000037 4.3359414170399964 1625.978031390001 0 541.99267712999915 0 0 135.49816928249979 13.549816928249999 1.0839853542599991 3.6855502044839978 0 0 12.044281713999991 0 27.88050478662063 0.081298901569499968 0 0 8.9999999999999996e-17 8.9999999999999996e-17 1.0000000000000001e-17 5e-15 1.0000000000000001e-18 8.9999999999999996e-17 8.9999999999999996e-17 
+      0 0 0 26.918969630790002 66.91267618821972 4.8177126855999983 0 0 43.961628256100013 108.39853542599995 301.10704284999974 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.48177126856000002 0 164.60518342466648 0 12.044281714000016 6.0221408570000063 343.23380006373293 0 0 0 0 0 662.43549427000016 4.8177126855999957 0 0 0 0 0 0 0 0 0 0 0 0 0 0 30.110704285000004 0 0 0 0 0 0 0 21.071470858642996 0 0 0 0 49.381555027399905 0 3.6132845141999965 60.221408569999987 0 0 0 0 0 2.9590993529040905 60.221408569999987 60.221408569999952 602.21408569999937 30.110704285000004 33.456338094444476 48.177126855999973 60.221408570000008 0 108.39853542599995 0 30.110704285000004 0 60.221408569999987 0 2.2407382438553416e-15 24.088563427999958 0 15.055352142500002 0 0 0 60.221408570000008 0 0.19270850742399992 0 722.65690284000027 6.0221408570000063 0.010839853542600001 0 0 0 0 0 0.12044281713999999 0 0 6.0221408569999895 0 0 4.4608450792592604 0 0 0 0 0 0 1.2591694317901301 60.221408570000008 0 30.110704285000004 3.6132845141999965 0 0 0 0 0 12.044281714000016 6503.9121255599985 0 156.12957777407368 0.0092138755112099995 0.62028050827100012 0 0 0 0 0 0 0 0 0 0 75.276760712499922 0.61805231615391032 0 0 0 0 2.5895205685099993 0 0 0 0 0 0.051904832046482996 0 0 0 60.221408569999923 0 0 0 60.221408570000008 0 0 1.5168769126632769e-17 0 0 0 0 0 0 0 0 0 0 5.0966381764941249e-21 0 0 0 0 0.0060221408569999897 12.044281714000016 0 0.0037939487399100006 0 0 60.221408570000008 0 0 0 0 0 0 0 0 0 0 0 0 0 0.30110704284999973 0 0 0 0 0 2.1607441394915999e-214 2.8304062027900003 0 2.1607441394915999e-214 0 0 1.0840857232742852e-214 0 0 4.2983030366837533e-214 0 0 0 1.231126329199365e-214 0 1.231126329199365e-214 0 0 0 0 6.1767091389963533e-215 0 1.0840857232742852e-214 0 0 0 4.2983030366837533e-214 0 3.6132845141999965 0 0 0 0 1.231126329199365e-214 0 0 0 2.4490039485133369e-214 0 0 0 1.231126329199365e-214 16.259780313899977 0 0 0 0 0 0 0 0.0030110704284999992 0 30.110704285000004 0 0 0 0 0 2.1607441394915999e-214 0 0 0 0 0 0 0 0 0 0 0 6.1767091389963533e-215 0 4.4608450790139136 0 0 2.4490039485133369e-214 0 0 0.72265690283999928 0.015331346857976332 2.1607441394915999e-214 0 0 0 0 0 0 1.4726364817904626e-06 0 0 0 0 0 0 0 0 0 0 0 5.5760563490740722 0 12.044281713999991 0 0 0.18066422570999982 0 0 0 0 0 6.991805905998669e-15 2.9511835833109459e-06 0 0 1585.8304256766653 0 0 0 0 0 0 0 0.00037337273313400014 0 0 1.3342387632064446e-05 0 0 0 0 0 0.042154985998999993 0 0 0 0 0 0.0024130941456252985 0 0 0 0.00012004134106279277 0 0.48177126856000002 48.177126855999916 0 0 0.18367529613849998 0 0 0 0.0011408611290205537 0 0 0.0030712918370700004 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.32434804571740161 0 0 0.14453138056800008 0 0 12.044281714000016 0 8.3683669348871981e-16 0 0 0 0 1.0920148752019284e-15 0 0 0 0 0 0 0 0 0 0 0 0 0 0.051515801747120754 36.132845141999994 0 0 0 0 1.0538746499749994e-14 14.453138056800002 0 0 0 0 0 0.28304062027899995 0 0 0 0 1.2044281713999989 0 0 3.8097847399413703e-09 0 0 216.79707085199999 0 0 0 0 0 0 0 12.044703263859967 0 0 5.6819902677945248e-19 0 0.00037337273313400014 0 0.077027642401648402 0 0 30.110704285000004 0.0014293551324089505 0 0 0 0 0 60.221408570000008 0 0 0 60.221408570000008 0 0 0 0 0 0 0 2.9590792793019725e-16 0 0 0 0 0 0 0 0 0.41612993321869984 0 0 0 158.58304256766641 0 0 0 0 0 0 18.066422571 0 0 0 0 0 0 4.8176946191774315 0 0 0 0 0 0 0 0 2.408898497786002 15.612957777407368 0 18.066422571 0 0 0 42.154985999000026 0 0 6.0221408570000063 0 0.00060221408570000092 36.132845141999994 0 0 0 0 0.060221408569999989 0 6.0221408570000063 0.60221408569999979 0 12.044462378225711 1.002244829228391 0 21.077492999499992 1.2044281714000118 0 120.44281714000002 6624.3549426999989 120.44281714000002 0 0 0 0 5.5760563490740722 0 12.044281713999991 12.044281713999991 12.044281713999991 0 0 0 0 0 0 21.077492999499992 0 0 0 0 0 0 0 0 0 216797.070852 120.44281714000002 301107.04285000014 0 6.0221408570000063 4.8177126855999957 1806.6422571000012 0 602.21408569999937 0 0 150.55352142499984 15.055352142500002 1.2044281713999989 4.0950557827599976 0 0 12.044281713999991 0 27.88050478662063 0.09033211285499998 0 0 8.9999999999999996e-17 9.9999999999999998e-17 1.0000000000000001e-17 5e-15 1.0000000000000001e-18 8.9999999999999996e-17 8.9999999999999996e-17 
     </InitialState>
   </Model>
   <ListOfTasks>
@@ -63224,8 +63328,8 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
       <Report reference="Report_18" target="" append="0" confirmOverwrite="1"/>
       <Problem>
         <Parameter name="AutomaticStepSize" type="bool" value="0"/>
-        <Parameter name="StepNumber" type="unsignedInteger" value="300"/>
-        <Parameter name="StepSize" type="float" value="10"/>
+        <Parameter name="StepNumber" type="unsignedInteger" value="3000"/>
+        <Parameter name="StepSize" type="float" value="1"/>
         <Parameter name="Duration" type="float" value="3000"/>
         <Parameter name="TimeSeriesRequested" type="bool" value="0"/>
         <Parameter name="OutputStartTime" type="float" value="0"/>
@@ -64122,7 +64226,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
     </Report>
   </ListOfReports>
   <ListOfPlots>
-    <PlotSpecification name="Adenylate Cyclase" type="Plot2D" active="1">
+    <PlotSpecification name="Adenylate Cyclase" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64386,7 +64490,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="AA_AMP_ATP" type="Plot2D" active="1">
+    <PlotSpecification name="AA_AMP_ATP" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64428,7 +64532,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="AMPAR" type="Plot2D" active="1">
+    <PlotSpecification name="AMPAR" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64542,7 +64646,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="APC_complexes" type="Plot2D" active="1">
+    <PlotSpecification name="APC_complexes" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64644,7 +64748,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Axin_Bcat" type="Plot2D" active="1">
+    <PlotSpecification name="Axin_Bcat" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64686,7 +64790,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Braf_craf" type="Plot2D" active="1">
+    <PlotSpecification name="Braf_craf" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64800,7 +64904,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="C3G_GSK3B" type="Plot2D" active="1">
+    <PlotSpecification name="C3G_GSK3B" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -64854,7 +64958,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Ca" type="Plot2D" active="1">
+    <PlotSpecification name="Ca" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65040,7 +65144,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Calmodulin" type="Plot2D" active="1">
+    <PlotSpecification name="Calmodulin" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65178,7 +65282,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="CaMKII" type="Plot2D" active="1">
+    <PlotSpecification name="CaMKII" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65514,7 +65618,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="cAMP" type="Plot2D" active="1">
+    <PlotSpecification name="cAMP" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65664,7 +65768,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="CaN(AB)" type="Plot2D" active="1">
+    <PlotSpecification name="CaN(AB)" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65706,7 +65810,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="DAG_PA_PIP2" type="Plot2D" active="1">
+    <PlotSpecification name="DAG_PA_PIP2" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65760,7 +65864,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Dishevelled" type="Plot2D" active="1">
+    <PlotSpecification name="Dishevelled" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65892,7 +65996,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="EGF" type="Plot2D" active="1">
+    <PlotSpecification name="EGF" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -65946,7 +66050,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="GAP_GEF" type="Plot2D" active="1">
+    <PlotSpecification name="GAP_GEF" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66024,7 +66128,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="G_protein" type="Plot2D" active="1">
+    <PlotSpecification name="G_protein" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66234,7 +66338,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Ras" type="Plot2D" active="1">
+    <PlotSpecification name="Ras" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66288,7 +66392,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="IP3" type="Plot2D" active="1">
+    <PlotSpecification name="IP3" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66420,7 +66524,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="mGluR" type="Plot2D" active="1">
+    <PlotSpecification name="mGluR" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66522,7 +66626,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="MKP" type="Plot2D" active="1">
+    <PlotSpecification name="MKP" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66540,7 +66644,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="mTOR" type="Plot2D" active="1">
+    <PlotSpecification name="mTOR" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66606,7 +66710,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="neurogranin" type="Plot2D" active="1">
+    <PlotSpecification name="neurogranin" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66684,7 +66788,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="glutamate_receptors" type="Plot2D" active="1">
+    <PlotSpecification name="glutamate_receptors" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66774,7 +66878,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="num_x" type="Plot2D" active="1">
+    <PlotSpecification name="num_x" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66948,7 +67052,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PDE_PDK" type="Plot2D" active="1">
+    <PlotSpecification name="PDE_PDK" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -66978,7 +67082,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PI3K_mod" type="Plot2D" active="1">
+    <PlotSpecification name="PI3K_mod" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67008,7 +67112,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PKA" type="Plot2D" active="1">
+    <PlotSpecification name="PKA" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67038,7 +67142,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PKC" type="Plot2D" active="1">
+    <PlotSpecification name="PKC" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67212,7 +67316,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PLA2" type="Plot2D" active="1">
+    <PlotSpecification name="PLA2" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67266,7 +67370,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PLC" type="Plot2D" active="1">
+    <PlotSpecification name="PLC" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67356,7 +67460,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PP1" type="Plot2D" active="1">
+    <PlotSpecification name="PP1" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67482,7 +67586,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="PP2A" type="Plot2D" active="1">
+    <PlotSpecification name="PP2A" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67500,7 +67604,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Rap_Rheb_RKIP_p90Rsk" type="Plot2D" active="1">
+    <PlotSpecification name="Rap_Rheb_RKIP_p90Rsk" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67614,7 +67718,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="S6K" type="Plot2D" active="1">
+    <PlotSpecification name="S6K" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67692,7 +67796,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="Shc_Sos" type="Plot2D" active="1">
+    <PlotSpecification name="Shc_Sos" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67782,7 +67886,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="TCF_X" type="Plot2D" active="1">
+    <PlotSpecification name="TCF_X" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>
@@ -67824,7 +67928,7 @@ To cite BioModels Database, please use: http://www.ncbi.nlm.nih.gov/pubmed/20587
         </PlotItem>
       </ListOfPlotItems>
     </PlotSpecification>
-    <PlotSpecification name="TrkB" type="Plot2D" active="1">
+    <PlotSpecification name="TrkB" type="Plot2D" active="0">
       <Parameter name="log X" type="bool" value="0"/>
       <Parameter name="log Y" type="bool" value="0"/>
       <ListOfPlotItems>

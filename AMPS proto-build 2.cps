@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-09-28 13:26:40 UTC -->
+<!-- generated with COPASI 4.20 (Build 158) (http://www.copasi.org) at 2017-10-03 14:41:07 UTC -->
 <?oxygen RNGSchema="http://www.copasi.org/static/schema/CopasiML.rng" type="xml"?>
 <COPASI xmlns="http://www.copasi.org/static/schema" versionMajor="4" versionMinor="20" versionDevel="158" copasiSourcesModified="0">
   <Model key="Model_0" name="AMPS protobuild 2" simulationType="time" timeUnit="s" volumeUnit="l" areaUnit="m²" lengthUnit="m" quantityUnit="µmol" type="deterministic" avogadroConstant="6.0221408570000002e+23">
@@ -496,6 +496,60 @@ Much of the following reaction schema are derived from figures from 10.1152/phys
       </Reaction>
       <Reaction key="Reaction_73" name="Cdc42_PAK_cplx -> act_Cdc42 + act_PAK1-3" reversible="false" fast="false">
       </Reaction>
+      <Reaction key="Reaction_74" name="act_Cdc42 + N-WASP = Cdc42_N-WASP_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_75" name="Cdc42_N-WASP_cplx -> act_Cdc42 + act_N-WASP" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_76" name="act_RhoA + Aladin = RhoA_Aladin_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_77" name="RhoA_Aladin_cplx -> act_RhoA + act_Aladin" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_78" name="act_Rap1/2 + Aladin = Rap1/2_Aladin_cplx" reversible="false" fast="false">
+        <MiriamAnnotation>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="#Reaction_78">
+    <dcterms:created>
+      <rdf:Description>
+        <dcterms:W3CDTF>2017-09-29T13:04:30Z</dcterms:W3CDTF>
+      </rdf:Description>
+    </dcterms:created>
+  </rdf:Description>
+</rdf:RDF>
+
+        </MiriamAnnotation>
+      </Reaction>
+      <Reaction key="Reaction_79" name="Rap1/2_Aladin_cplx_1 -> act_Rap1/2 + act_Aladin" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_80" name="act_ARF6 + Rac1 = ARF_Rac1_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_81" name="ARF_Rac1_cplx -> act_ARF6  + act_Rac1" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_82" name="Plk2 + act_RasGRF1 = Plk_RasGRF_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_83" name="Plk_RasGRF_cplx -> Plk2 + RasGRF1" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_84" name="Plk2 + PDZGEF1 = Plk_PDZGEF_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_85" name="Plk_PDZGEF_cplx -> Plk2 + act_PDZGEF1" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_86" name="Plk2 + SynGAP = Plk_SynGAP_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_87" name="Plk_SynGAP_cplx -> Plk2  + act_SynGAP" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_88" name="Plk2 + act_SPAR = Plk_SPAR_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_89" name="Plk_SPAR_cplx -> Plk2 + SPAR" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_90" name="Homer + PIKE = Homer_PIKE_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_91" name="Homer_PIKE_cplx + mGluR = mGluR_Homer_PIKE_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_92" name="CaMKII + SynGAP = CaMKII_SynGAP_cplx" reversible="false" fast="false">
+      </Reaction>
+      <Reaction key="Reaction_93" name="CaMKII_SynGAP_cplx -> CaMKII + act_SynGAP" reversible="false" fast="false">
+      </Reaction>
     </ListOfReactions>
     <ListOfModelParameterSets activeSet="ModelParameterSet_0">
       <ModelParameterSet key="ModelParameterSet_0" name="Initial State">
@@ -761,6 +815,46 @@ Much of the following reaction schema are derived from figures from 10.1152/phys
           <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[act_Cdc42 + PAK1-3 \= Cdc42_PAK_cplx]" type="Reaction">
           </ModelParameterGroup>
           <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Cdc42_PAK_cplx -\> act_Cdc42 + act_PAK1-3]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[act_Cdc42 + N-WASP \= Cdc42_N-WASP_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Cdc42_N-WASP_cplx -\> act_Cdc42 + act_N-WASP]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[act_RhoA + Aladin \= RhoA_Aladin_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[RhoA_Aladin_cplx -\> act_RhoA + act_Aladin]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[act_Rap1/2 + Aladin \= Rap1/2_Aladin_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Rap1/2_Aladin_cplx_1 -\> act_Rap1/2 + act_Aladin]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[act_ARF6 + Rac1 \= ARF_Rac1_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[ARF_Rac1_cplx -\> act_ARF6  + act_Rac1]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk2 + act_RasGRF1 \= Plk_RasGRF_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk_RasGRF_cplx -\> Plk2 + RasGRF1]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk2 + PDZGEF1 \= Plk_PDZGEF_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk_PDZGEF_cplx -\> Plk2 + act_PDZGEF1]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk2 + SynGAP \= Plk_SynGAP_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk_SynGAP_cplx -\> Plk2  + act_SynGAP]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk2 + act_SPAR \= Plk_SPAR_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Plk_SPAR_cplx -\> Plk2 + SPAR]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Homer + PIKE \= Homer_PIKE_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[Homer_PIKE_cplx + mGluR \= mGluR_Homer_PIKE_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[CaMKII + SynGAP \= CaMKII_SynGAP_cplx]" type="Reaction">
+          </ModelParameterGroup>
+          <ModelParameterGroup cn="CN=Root,Model=AMPS protobuild 2,Vector=Reactions[CaMKII_SynGAP_cplx -\> CaMKII + act_SynGAP]" type="Reaction">
           </ModelParameterGroup>
         </ModelParameterGroup>
       </ModelParameterSet>

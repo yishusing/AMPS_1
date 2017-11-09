@@ -1,11 +1,9 @@
-<<<<<<< Updated upstream
-AMPS
+NOTE TO SFN ATTENDEES- This is very much a work in progress still. The versions uploaded here are stable, but don't necessarily function as you (or I) might want them to. Please contact for details and I'll do my best to answer. Help always appreciated too!
 
-=======
->>>>>>> Stashed changes
+
 AMPS- Build 1
 
-This is the first fully realised version of the AMPA Receptor Metabolic Pathway Simulator (AMPS). This project, started in 2016, is an attempt to create a maximalist model of a generic pyramidal dendritic spine in the hippocampus.
+This is the first fully realised version of the AMPAR-centric Model of Postsynaptic Signalling (AMPS). This project, started in late 2016, is an attempt to create a maximalist model of a generic pyramidal dendritic spine in the hippocampus.
 
 To achieve this, the initial build has been to merge together for distinct models into a single one. These four combined simulate almost all the different species of protein and ions involved in the biochemical reactome of the spine. The role of this model moving forward is to:
 
